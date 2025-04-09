@@ -1,0 +1,2 @@
+# JavaLab
+Detyrat e laboratoritJava
